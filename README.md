@@ -6,12 +6,6 @@ Welcome to the **Audible Book Recommender System**, an interactive and intellige
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to try the app!](http://51.20.135.71:8501)
-
----
-
 ## 🔍 Features
 
 - 🎯 **Personalized Recommendations** using:
