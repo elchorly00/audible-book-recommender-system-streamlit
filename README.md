@@ -76,7 +76,7 @@ The dataset used in this project contains the following key features:
 
 **Priyanka Malavade**  
 💼 Data Analyst Enthusiast  
-📬 [LinkedIn](https://www.linkedin.com/in/priyanka-malavade/) 
+📬 [LinkedIn](https://www.linkedin.com/in/priyanka-malavade-b34677298/) 
 
 ## ⭐️ Give a Star
 
