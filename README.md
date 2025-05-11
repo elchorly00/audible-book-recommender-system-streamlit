@@ -64,7 +64,7 @@ The dataset used in this project contains the following key features:
 
 | Home Page | EDA Dashboard | Recommendation Output |
 |-----------|---------------|------------------------|
-| ![Home](images/screencapture-localhost-8502-2025-05-11-19_47_34.png) | ![EDA](https://user-images.githubusercontent.com/yourusername/eda-dashboard.png) | ![Recommendations](https://user-images.githubusercontent.com/yourusername/recommendation-output.png) |
+| ![Home](images/screencapture-localhost-8502-2025-05-11-19_47_34.png) | ![EDA](images/screencapture-localhost-8502-2025-05-11-19_48_02.png) | ![Recommendations](https://user-images.githubusercontent.com/yourusername/recommendation-output.png) |
 
 ## 🙋‍♀️ Author
 
